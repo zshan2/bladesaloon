@@ -158,9 +158,9 @@
                         <span class="fa-stack fa-4x">
                             <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
                             <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/STRENGTH IN STYLET.png" class="services" />
+                            <img src="img/about/STRENGTH IN STYLE.png" class="services" />
                         </span>
-                        <h4 class="service-heading">STRENGTH IN STYLET</h4>
+                        <h4 class="service-heading">STRENGTH IN STYLE</h4>
                         <p class="text-muted">Together, the TONI&GUY Charitable Foundation and Macmillan offer Strength in Style – a service to improve the quality of haircare for people living with cancer.</p>
                     </div>
                     <div class="col-md-4">
