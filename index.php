@@ -291,128 +291,18 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="2500">
+                        <div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="3000">
+                            <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                                <span class="fa fa-chevron-left aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                                <span class="fa fa fa-chevron-right " aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
                             <div class="carousel-inner">
                                 <div class="carousel-item active ">
                                     <div class="row">
-                                        <div class="col-md-3">
-                                            <div class="pricing hover-effect">
-                                                <div class="pricing-head">
-                                                    <h3>MEN GROOMING<span>
-                                                            Officia deserunt mollitia </span>
-                                                    </h3>
-                                                    <h4><i>RS</i>2500<i></i>
-                                                        <span>
-                                                            Deal Price </span>
-                                                    </h4>
-                                                </div>
-                                                <ul class="pricing-content list-unstyled text-center">
-                                                    <li>
-                                                        Janssen Facial
-                                                    </li>
-                                                    <li>
-                                                        Janssen Purifying Tonic Lotion
-                                                    </li>
-                                                    <li>
-                                                        Janssen Brightening Night Restore
-                                                    </li>
-                                                    <li>
-                                                        Janssen Gentle Cleansing
-                                                    </li>
-                                                    <li>
-                                                        Janssen Intensive Face Scrub
-                                                    </li>
-                                                    <li>
-                                                        Black & White Heads Removing
-                                                    </li>
-                                                    <li>
-                                                        Whitening Polisher
-                                                    </li>
-                                                    <li>
-                                                        Steam
-                                                    </li>
-                                                    <li>
-                                                        Whitening Mask
-                                                    </li>
-                                                    <li>
-                                                        Shampoo
-                                                    </li>
-                                                    <li>
-                                                        Hair Cut
-                                                    </li>
-                                                    <li>
-                                                        Styling
-                                                    </li>
-                                                    <li>
-                                                        Shave/Beard
-                                                    </li>
-                                                </ul>
-                                                <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="pricing hover-effect">
-                                                <div class="pricing-head">
-                                                    <h3>Pro <span>
-                                                            Officia deserunt mollitia </span>
-                                                    </h3>
-                                                    <h4><i>RS</i>2000<i></i>
-                                                        <span>
-                                                            Deal Price </span>
-                                                    </h4>
-                                                </div>
-                                                <ul class="pricing-content list-unstyled text-center">
-                                                    <li>
-                                                        Cute Plus Facial
-                                                    </li>
-                                                    <li>
-                                                        Whitening Polisher
-                                                    </li>
-                                                    <li>
-                                                        Oil Control Treatment
-                                                    </li>
-                                                    <li>
-                                                        Sensitivity Control Treatment
-                                                    </li>
-                                                    <li>
-                                                        Hand Polisher
-                                                    </li>
-                                                    <li>
-                                                        Facial Steam
-                                                    </li>
-                                                    <li>
-                                                        Black & White Heads Removing
-                                                    </li>
-                                                    <li>
-                                                        Hair Shine Enhance Treatment
-                                                    </li>
-                                                    <li>
-                                                        Black Mask
-                                                    </li>
-                                                    <li>
-                                                        Hair Cut
-                                                    </li>
-                                                    <li>
-                                                        Styling
-                                                    </li>
-                                                </ul>
-                                                <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
                                         <div class="col-md-3">
                                             <div class="pricing hover-effect">
                                                 <div class="pricing-head">
@@ -460,23 +350,29 @@
                                         <div class="col-md-3">
                                             <div class="pricing hover-effect">
                                                 <div class="pricing-head">
-                                                    <h3>Hi-Tech <span>
+                                                    <h3>Expert <span>
                                                             Officia deserunt mollitia </span>
                                                     </h3>
-                                                    <h4><i>RS</i>2500<i></i>
+                                                    <h4><i>RS</i>1200<i></i>
                                                         <span>
                                                             Deal Price </span>
                                                     </h4>
                                                 </div>
                                                 <ul class="pricing-content list-unstyled text-center">
                                                     <li>
-                                                        Top Hair Relaxing With Keratin
+                                                        Melafadin Treatment
                                                     </li>
                                                     <li>
-                                                        Deep Conditioning
+                                                        Cleansing
                                                     </li>
                                                     <li>
-                                                        Face Cleansing
+                                                        Deep CLeansing
+                                                    </li>
+                                                    <li>
+                                                        Exfolation
+                                                    </li>
+                                                    <li>
+                                                        Hand Polisher
                                                     </li>
                                                     <li>
                                                         Black Mask
@@ -492,74 +388,6 @@
                                                     </li>
                                                     <li>
                                                         Styling
-                                                    </li>
-                                                </ul>
-                                                <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 carousel-item ">
-                                    <div class="row">
-                                        <div class="col-md-2">
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="pricing hover-effect">
-                                                <div class="pricing-head">
-                                                    <h3>MEN GROOMING<span>
-                                                            Officia deserunt mollitia </span>
-                                                    </h3>
-                                                    <h4><i>RS</i>2500<i></i>
-                                                        <span>
-                                                            Deal Price </span>
-                                                    </h4>
-                                                </div>
-                                                <ul class="pricing-content list-unstyled text-center">
-                                                    <li>
-                                                        Janssen Facial
-                                                    </li>
-                                                    <li>
-                                                        Janssen Purifying Tonic Lotion
-                                                    </li>
-                                                    <li>
-                                                        Janssen Brightening Night Restore
-                                                    </li>
-                                                    <li>
-                                                        Janssen Gentle Cleansing
-                                                    </li>
-                                                    <li>
-                                                        Janssen Intensive Face Scrub
-                                                    </li>
-                                                    <li>
-                                                        Black & White Heads Removing
-                                                    </li>
-                                                    <li>
-                                                        Whitening Polisher
-                                                    </li>
-                                                    <li>
-                                                        Steam
-                                                    </li>
-                                                    <li>
-                                                        Whitening Mask
-                                                    </li>
-                                                    <li>
-                                                        Shampoo
-                                                    </li>
-                                                    <li>
-                                                        Hair Cut
-                                                    </li>
-                                                    <li>
-                                                        Styling
-                                                    </li>
-                                                    <li>
-                                                        Shave/Beard
                                                     </li>
                                                 </ul>
                                                 <div class="pricing-footer">
@@ -631,29 +459,85 @@
                                         <div class="col-md-3">
                                             <div class="pricing hover-effect">
                                                 <div class="pricing-head">
-                                                    <h3>Expert <span>
+                                                    <h3>Pro <span>
                                                             Officia deserunt mollitia </span>
                                                     </h3>
-                                                    <h4><i>RS</i>1200<i></i>
+                                                    <h4><i>RS</i>2000<i></i>
                                                         <span>
                                                             Deal Price </span>
                                                     </h4>
                                                 </div>
                                                 <ul class="pricing-content list-unstyled text-center">
                                                     <li>
-                                                        Melafadin Treatment
+                                                        Cute Plus Facial
                                                     </li>
                                                     <li>
-                                                        Cleansing
+                                                        Whitening Polisher
                                                     </li>
                                                     <li>
-                                                        Deep CLeansing
+                                                        Oil Control Treatment
                                                     </li>
                                                     <li>
-                                                        Exfolation
+                                                        Sensitivity Control Treatment
                                                     </li>
                                                     <li>
                                                         Hand Polisher
+                                                    </li>
+                                                    <li>
+                                                        Facial Steam
+                                                    </li>
+                                                    <li>
+                                                        Black & White Heads Removing
+                                                    </li>
+                                                    <li>
+                                                        Hair Shine Enhance Treatment
+                                                    </li>
+                                                    <li>
+                                                        Black Mask
+                                                    </li>
+                                                    <li>
+                                                        Hair Cut
+                                                    </li>
+                                                    <li>
+                                                        Styling
+                                                    </li>
+                                                </ul>
+                                                <div class="pricing-footer">
+                                                    <p>
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
+                                                    </p>
+                                                    <a href="javascript:;" class="btn yellow-crusta">
+                                                        Sign Up
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 carousel-item ">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                        </div>
+                                        <div class="col-md-3">
+                                            <div class="pricing hover-effect">
+                                                <div class="pricing-head">
+                                                    <h3>Hi-Tech <span>
+                                                            Officia deserunt mollitia </span>
+                                                    </h3>
+                                                    <h4><i>RS</i>2500<i></i>
+                                                        <span>
+                                                            Deal Price </span>
+                                                    </h4>
+                                                </div>
+                                                <ul class="pricing-content list-unstyled text-center">
+                                                    <li>
+                                                        Top Hair Relaxing With Keratin
+                                                    </li>
+                                                    <li>
+                                                        Deep Conditioning
+                                                    </li>
+                                                    <li>
+                                                        Face Cleansing
                                                     </li>
                                                     <li>
                                                         Black Mask
@@ -681,19 +565,73 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-1">
+                                        <div class="col-md-3">
+                                            <div class="pricing hover-effect">
+                                                <div class="pricing-head">
+                                                    <h3>MEN GROOMING<span>
+                                                            Officia deserunt mollitia </span>
+                                                    </h3>
+                                                    <h4><i>RS</i>2500<i></i>
+                                                        <span>
+                                                            Deal Price </span>
+                                                    </h4>
+                                                </div>
+                                                <ul class="pricing-content list-unstyled text-center">
+                                                    <li>
+                                                        Janssen Facial
+                                                    </li>
+                                                    <li>
+                                                        Janssen Purifying Tonic Lotion
+                                                    </li>
+                                                    <li>
+                                                        Janssen Brightening Night Restore
+                                                    </li>
+                                                    <li>
+                                                        Janssen Gentle Cleansing
+                                                    </li>
+                                                    <li>
+                                                        Janssen Intensive Face Scrub
+                                                    </li>
+                                                    <li>
+                                                        Black & White Heads Removing
+                                                    </li>
+                                                    <li>
+                                                        Whitening Polisher
+                                                    </li>
+                                                    <li>
+                                                        Steam
+                                                    </li>
+                                                    <li>
+                                                        Whitening Mask
+                                                    </li>
+                                                    <li>
+                                                        Shampoo
+                                                    </li>
+                                                    <li>
+                                                        Hair Cut
+                                                    </li>
+                                                    <li>
+                                                        Styling
+                                                    </li>
+                                                    <li>
+                                                        Shave/Beard
+                                                    </li>
+                                                </ul>
+                                                <div class="pricing-footer">
+                                                    <p>
+                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
+                                                    </p>
+                                                    <a href="javascript:;" class="btn yellow-crusta">
+                                                        Sign Up
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-3">
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
                             <!--  Example item end -->
                         </div>
                     </div>
@@ -1106,7 +1044,7 @@
     <script>
         $(document).ready(function () {
             $('#carousel').carousel({
-                interval: 2000
+                interval: 2500
             })
         });
     </script>
