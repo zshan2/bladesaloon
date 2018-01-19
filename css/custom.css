@@ -21,17 +21,17 @@ Pricing table
 }
 
 .pricing-active {
-  border: 3px solid #36d7ac;
+  border: 3px solid #fed136;
   margin-top: -10px;
   box-shadow: 7px 7px rgba(54, 215, 172, 0.2);
 }
 
 .pricing:hover {
-  border: 3px solid #36d7ac;
+  border: 3px solid #fed136;
 }
 
 .pricing:hover h4 {
-  color: #36d7ac;
+  color: #fed136;
 }
 
 .pricing-head {
@@ -57,8 +57,8 @@ Pricing table
   color: #fafafa;
   padding: 12px 0;
   font-size: 27px;
-  background: #36d7ac;
-  border-bottom: solid 1px #41b91c;
+  background: #fed136;
+  border-bottom: solid 1px #ffc600;
 }
 
 .pricing-head h4 {
@@ -71,7 +71,7 @@ Pricing table
 }
 
 .pricing-head-active h4 {
-  color: #36d7ac;
+  color: #fed136;
 }
 
 .pricing-head h4 i {
@@ -112,7 +112,7 @@ Pricing table
 }
 
 .price-active h4 {
-  color: #36d7ac;
+  color: #fed136;
 }
 
 .no-space-pricing .pricing:hover {
@@ -121,7 +121,7 @@ Pricing table
 
 .no-space-pricing .price-active .pricing-head h4,
 .no-space-pricing .pricing:hover .pricing-head h4 {
-  color: #36d7ac;
+  color: #fed136;
   padding: 15px 0;
   font-size: 80px;
   transition: color 0.5s ease-in-out;
