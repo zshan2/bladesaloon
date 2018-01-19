@@ -140,7 +140,7 @@ Pricing table
 }
 
 
-.carousel-control{position:relative;top:450px;margin: -50px;}
+.carousel-control{position:relative;top:450px;z-index: 10;}
 a.left{float:left;text-align:left;font-size:2.3rem;}
 a.right{float:right;text-align:right;font-size:2.3rem;}
 

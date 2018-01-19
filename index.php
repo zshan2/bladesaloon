@@ -294,8 +294,7 @@
 
         <!-- Deals -->
         <section id="deals">
-            <div class="container">
-                <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+            <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
                     <span class="fa fa-chevron-left aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
@@ -303,7 +302,7 @@
                     <span class="fa fa fa-chevron-right " aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
-
+            <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Deals</h2>
