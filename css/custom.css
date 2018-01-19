@@ -140,6 +140,13 @@ Pricing table
 }
 
 
-.carousel-control{position:relative;top:250px;margin: -50px;}
+.carousel-control{position:relative;top:450px;margin: -50px;}
 a.left{float:left;text-align:left;font-size:2.3rem;}
 a.right{float:right;text-align:right;font-size:2.3rem;}
+
+.services{
+    width: 115px;
+    height: auto;
+    position: inherit;
+    margin-top: -15px;
+}

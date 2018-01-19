@@ -31,7 +31,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">BLADE HAIR SALOON & STUDIO</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">BLADE SALOON & STUDIO</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fa fa-bars"></i>
@@ -84,96 +84,108 @@
                 <div class="row text-center">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <img src="img/about/HAIRCUTS.png" class="services" />
+                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
                         </span>
                         <h4 class="service-heading">HAIRCUTS</h4>
                         <p class="text-muted">Our annual collection is strongly influenced by our connection to Fashion. Our talented Stylists interpret the latest trends for women, men and children, adapting them to suit your individual style.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/HAIR COLOUR.png" class="services" />
                         </span>
                         <h4 class="service-heading">HAIR COLOUR</h4>
                         <p class="text-muted">We live, love and perfect colour. Let one of our award-winning Technicians offer you a consultation today. All clients must have a skin allergy test 48 hours prior to a technical appointment, unless a technical service has been carried out in this salon in the last six months.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/KERATIN SMOOTHING TREATMENT.png" class="services" />
                         </span>
                         <h4 class="service-heading">KERATIN SMOOTHING TREATMENT</h4>
                         <p class="text-muted">We offer a keratin based treatment designed to tame unruly hair whilst dramatically improving its health, condition and shine.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/DRY STYLING.png" class="services" />
                         </span>
                         <h4 class="service-heading">DRY STYLING</h4>
                         <p class="text-muted">Designed to transcend the seasons. Our Dry Styling menu offers timeless looks for any occasion, to suit all hair lengths and textures, from glossy and sleek, to volumised and tousled.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/MENS GROOMING.png" class="services" />
                         </span>
                         <h4 class="service-heading">MENS GROOMING</h4>
                         <p class="text-muted">Fresh, on-trend looks linked closely to street style and the London Collection Men’s shows, complemented by label.men products to recreate the look at home.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/HAIR EXTENSIONS.png" class="services" />
                         </span>
                         <h4 class="service-heading">HAIR EXTENSIONS</h4>
                         <p class="text-muted">We offer hair extensions in a huge range of colours that can be curled, straightened and coloured.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/MOVEMENT & TEXTURE.png" class="services" />
                         </span>
                         <h4 class="service-heading">MOVEMENT & TEXTURE</h4>
                         <p class="text-muted">The texture of your hair can determine how easy or difficult it is to style, it can boost volume, create luscious curls or tame and smooth unruly hair into a sleek, shiny and manageable style.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/WEDDING HAIR.png" class="services" />
                         </span>
                         <h4 class="service-heading">WEDDING HAIR</h4>
                         <p class="text-muted">From classic up dos to boho down dos, we will create the perfect wedding hairstyle, whether you are the bride, a bridesmaid or a guest of honour...</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/STRENGTH IN STYLET.png" class="services" />
                         </span>
                         <h4 class="service-heading">STRENGTH IN STYLET</h4>
                         <p class="text-muted">Together, the TONI&GUY Charitable Foundation and Macmillan offer Strength in Style – a service to improve the quality of haircare for people living with cancer.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/AFRO.png" class="services" />
                         </span>
                         <h4 class="service-heading">AFRO</h4>
                         <p class="text-muted">Mizani products treat and nourish dry, rebellious and course hair. Specifically formulated for Afro, mixed race and excessively curly hair textures...</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/BEAUTY.png" class="services" />
                         </span>
                         <h4 class="service-heading">BEAUTY</h4>
                         <p class="text-muted">Selected salons offer a range of beauty services from manicures and pedicures through to cosmetic treatments with qualified doctors.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
+                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
+                            <img src="img/about/HAIR TREATMENTS.png" class="services" />
                         </span>
                         <h4 class="service-heading">HAIR TREATMENTS</h4>
                         <p class="text-muted">The NEW HAIRSPA treatments include a relaxing head massage and hot towel wrap, releasing feel good hormones that improve your wellbeing.</p>
@@ -283,6 +295,15 @@
         <!-- Deals -->
         <section id="deals">
             <div class="container">
+                <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                    <span class="fa fa-chevron-left aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                    <span class="fa fa fa-chevron-right " aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Deals</h2>
@@ -292,14 +313,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="3000">
-                            <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-                                <span class="fa fa-chevron-left aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-                                <span class="fa fa fa-chevron-right " aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
+
                             <div class="carousel-inner">
                                 <div class="carousel-item active ">
                                     <div class="row">
@@ -735,7 +749,7 @@
     <!-- Location -->
     <div id="location">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3403.0216655456593!2d74.26636711475834!3d31.468590181386777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391903d442d2c00b%3A0x27ab57699f04d59b!2sBlade+Hair+Salon+%26+Studio!5e0!3m2!1sen!2s!4v1516292313880" style="width: 100%;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                
+
     </div>
     <!-- Contact -->
     <section id="contact" style="margin-top: -6px;">
