@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Agency - Start Bootstrap Theme</title>
+    <title>Blade Saloon & Studio</title>
 
     <!-- Bootstrap core CSS -->
     <link href="js/bootstrap/css/bootstrap.min.css" rel="stylesheet">
