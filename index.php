@@ -41,21 +41,12 @@
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#services">Services</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
-                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#deals">Deals</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#team">Team</a>
-                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#location">Location</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
-                    </li> -->
                 </ul>
             </div>
         </div>
@@ -84,216 +75,83 @@
             <div class="row text-center">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
                             <img src="img/about/HAIRCUTS.png" class="services" />
-                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
                         </span>
                     <h4 class="service-heading">HAIRCUTS</h4>
-                    <!-- <p class="text-muted">Our annual collection is strongly influenced by our connection to Fashion. Our talented Stylists interpret the latest trends for women, men and children, adapting them to suit your individual style.</p> -->
-                </div>
+                     </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
                             <img src="img/about/HAIR COLOUR.png" class="services" />
                         </span>
                     <h4 class="service-heading">HAIR COLOUR</h4>
-                    <!-- <p class="text-muted">We live, love and perfect colour. Let one of our award-winning Technicians offer you a consultation today. All clients must have a skin allergy test 48 hours prior to a technical appointment, unless a technical service has been carried -->
-                    <!-- out in this salon in the last six months.</p> -->
+                    
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
                             <img src="img/about/KERATIN SMOOTHING TREATMENT.png" class="services" />
                         </span>
                     <h4 class="service-heading">KERATIN SMOOTHING TREATMENT</h4>
-                    <!-- <p class="text-muted">We offer a keratin based treatment designed to tame unruly hair whilst dramatically improving its health, condition and shine.</p> -->
-                </div>
+                     </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
                             <img src="img/about/DRY STYLING.png" class="services" />
                         </span>
                     <h4 class="service-heading">DRY STYLING</h4>
-                    <!-- <p class="text-muted">Designed to transcend the seasons. Our Dry Styling menu offers timeless looks for any occasion, to suit all hair lengths and textures, from glossy and sleek, to volumised and tousled.</p> -->
-                </div>
+                     </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
+                            
                             <img src="img/about/MENS GROOMING.png" class="services" />
                         </span>
                     <h4 class="service-heading">MENS GROOMING</h4>
-                    <!-- <p class="text-muted">Fresh, on-trend looks linked closely to street style and the London Collection Men’s shows, complemented by label.men products to recreate the look at home.</p> -->
-                </div>
+                            </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/HAIR EXTENSIONS.png" class="services" />
+                                   <img src="img/about/HAIR EXTENSIONS.png" class="services" />
                         </span>
                     <h4 class="service-heading">HAIR EXTENSIONS</h4>
-                    <!-- <p class="text-muted">We offer hair extensions in a huge range of colours that can be curled, straightened and coloured.</p> -->
-                </div>
+                      </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/MOVEMENT & TEXTURE.png" class="services" />
+                             <img src="img/about/MOVEMENT & TEXTURE.png" class="services" />
                         </span>
                     <h4 class="service-heading">MOVEMENT & TEXTURE</h4>
-                    <!-- <p class="text-muted">The texture of your hair can determine how easy or difficult it is to style, it can boost volume, create luscious curls or tame and smooth unruly hair into a sleek, shiny and manageable style.</p> -->
-                </div>
+                       </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/WEDDING HAIR.png" class="services" />
+                           <img src="img/about/WEDDING HAIR.png" class="services" />
                         </span>
                     <h4 class="service-heading">WEDDING HAIR</h4>
-                    <!-- <p class="text-muted">From classic up dos to boho down dos, we will create the perfect wedding hairstyle, whether you are the bride, a bridesmaid or a guest of honour...</p> -->
-                </div>
+                      </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
                             <img src="img/about/STRENGTH IN STYLE.png" class="services" />
                         </span>
                     <h4 class="service-heading">STRENGTH IN STYLE</h4>
-                    <!-- <p class="text-muted">Together, the TONI&GUY Charitable Foundation and Macmillan offer Strength in Style – a service to improve the quality of haircare for people living with cancer.</p> -->
-                </div>
+                    </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/AFRO.png" class="services" />
+                             <img src="img/about/AFRO.png" class="services" />
                         </span>
                     <h4 class="service-heading">AFRO</h4>
-                    <!-- <p class="text-muted">Mizani products treat and nourish dry, rebellious and course hair. Specifically formulated for Afro, mixed race and excessively curly hair textures...</p> -->
-                </div>
+                     </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>-->
                             <img src="img/about/BEAUTY.png" class="services" />
                         </span>
                     <h4 class="service-heading">BEAUTY</h4>
-                    <!-- <p class="text-muted">Selected salons offer a range of beauty services from manicures and pedicures through to cosmetic treatments with qualified doctors.</p> -->
-                </div>
+                    </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
-                            <!--<i class="fa fa-circle fa-stack-2x text-primary"></i>-->
-                            <!--<i class="fa fa-lock fa-stack-1x fa-inverse"></i>-->
-                            <img src="img/about/HAIR TREATMENTS.png" class="services" />
+                           <img src="img/about/HAIR TREATMENTS.png" class="services" />
                         </span>
                     <h4 class="service-heading">HAIR TREATMENTS</h4>
-                    <!-- <p class="text-muted">The NEW HAIRSPA treatments include a relaxing head massage and hot towel wrap, releasing feel good hormones that improve your wellbeing.</p> -->
-                </div>
+                     </div>
             </div>
         </div>
     </section>
 
-    <!-- Portfolio Grid -->
-    <!-- <section class="bg-light" id="portfolio">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h2 class="section-heading text-uppercase">Portfolio</h2>
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Threads</h4>
-                            <p class="text-muted">Illustration</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Explore</h4>
-                            <p class="text-muted">Graphic Design</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Finish</h4>
-                            <p class="text-muted">Identity</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Lines</h4>
-                            <p class="text-muted">Branding</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Southwest</h4>
-                            <p class="text-muted">Website Design</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6 portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content">
-                                    <i class="fa fa-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
-                        </a>
-                        <div class="portfolio-caption">
-                            <h4>Window</h4>
-                            <p class="text-muted">Photography</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-
-    <!-- Deals -->
+ <!-- Deals -->
     <section id="deals">
         <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
             <span class="fa fa-chevron-left" aria-hidden="true"></span>
@@ -312,7 +170,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="3000">
+                    <div id="carousel" class="carousel slide" data-ride="carousel" data-type="multi" data-interval="5000">
 
                         <div class="carousel-inner">
                             <div class="carousel-item active ">
@@ -654,148 +512,13 @@
         </div>
     </section>
 
-    <!-- Team -->
-    <!-- <section class="bg-light" id="team">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
-                        <ul class="list-inline social-buttons">
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
-                        <ul class="list-inline social-buttons">
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
-                        <ul class="list-inline social-buttons">
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 mx-auto text-center">
-                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-
+   
     <!-- Location -->
     <div id="location">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3403.0216655456593!2d74.26636711475834!3d31.468590181386777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391903d442d2c00b%3A0x27ab57699f04d59b!2sBlade+Hair+Salon+%26+Studio!5e0!3m2!1sen!2s!4v1516292313880"
             style="width: 100%;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
     </div>
-    <!-- Contact -->
-    <!-- <section id="contact" style="margin-top: -6px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <form id="contactForm" name="sentMessage" novalidate>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required data-validation-required-message="Please enter your name.">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                                <div class="form-group">
-                                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required data-validation-required-message="Please enter your email address.">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                                <div class="form-group">
-                                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required data-validation-required-message="Please enter your phone number.">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <textarea class="form-control" id="message" placeholder="Your Message *" required data-validation-required-message="Please enter a message."></textarea>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 text-center">
-                                <div id="success"></div>
-                                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!-- Footer -->
     <footer>
@@ -823,231 +546,9 @@
                         </li> -->
                     </ul>
                 </div>
-                <!-- <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li class="list-inline-item">
-                            <a href="#">Privacy Policy</a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div> -->
             </div>
         </div>
     </footer>
-
-    <!-- Portfolio Modals -->
-
-    <!-- Modal 1 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Threads</li>
-                                    <li>Category: Illustration</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal 2 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Explore</li>
-                                    <li>Category: Graphic Design</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal 3 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Finish</li>
-                                    <li>Category: Identity</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal 4 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Lines</li>
-                                    <li>Category: Branding</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal 5 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Southwest</li>
-                                    <li>Category: Website Design</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Modal 6 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <!-- Project Details Go Here -->
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate,
-                                    maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>Date: January 2017</li>
-                                    <li>Client: Window</li>
-                                    <li>Category: Photography</li>
-                                </ul>
-                                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                                    <i class="fa fa-times"></i>
-                                    Close Project</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
     <!-- Bootstrap core JavaScript -->
@@ -1066,7 +567,7 @@
     <script>
         $(document).ready(function() {
             $('#carousel').carousel({
-                interval: 2500
+                interval: 4500
             })
         });
     </script>
