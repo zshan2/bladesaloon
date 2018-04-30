@@ -5,8 +5,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Hair Saloon,Hair Treatment,Men Grooming,Beauty,Styling">
+    <meta name="author" content="Blade Saloon">
 
     <title>Blade Saloon & Studio</title>
 
@@ -165,8 +165,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading text-uppercase">Deals</h2>
-                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
-                </div>
+                    </div>
             </div>
             <div class="row">
                 <div class="col-md-12">
@@ -209,14 +208,6 @@
                                                     Soothing
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -262,14 +253,6 @@
                                                     Styling
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -318,14 +301,6 @@
                                                     Styling
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -374,14 +349,6 @@
                                                     Styling
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -427,14 +394,6 @@
                                                     Styling
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -489,14 +448,6 @@
                                                     Shave/Beard
                                                 </li>
                                             </ul>
-                                            <!-- <div class="pricing-footer">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non libero magna psum olor .
-                                                    </p>
-                                                    <a href="javascript:;" class="btn yellow-crusta">
-                                                        Sign Up
-                                                    </a>
-                                                </div> -->
                                         </div>
                                     </div>
                                     <div class="col-md-3">
@@ -504,7 +455,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!--  Example item end -->
                     </div>
                 </div>
             </div>
